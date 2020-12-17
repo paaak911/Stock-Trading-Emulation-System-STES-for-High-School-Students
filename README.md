@@ -19,29 +19,30 @@ form4 uses merge sort to present the data in ASC/DSC order based on the stats th
 
 
 The YouTube links for easy reference:
-form1Login: ‘Log In’
-https://youtu.be/5tOBhU9jFNQ
 
-form2StaffMenu: ‘Staff Menu’
-https://youtu.be/cNHceaVAP2g
+    form1Login: ‘Log In’
+    https://youtu.be/5tOBhU9jFNQ
 
-form2aCreateAccount: ‘Create Account’
-https://youtu.be/hzkhDL00md4
+    form2StaffMenu: ‘Staff Menu’
+    https://youtu.be/cNHceaVAP2g
 
-form2bModifyAccount: ‘Modify Account”
-https://youtu.be/Hh6Crmoc33A
+    form2aCreateAccount: ‘Create Account’
+    https://youtu.be/hzkhDL00md4
 
-form2dSystemTasks: ‘System Tasks’ (User input authentication)
-https://youtu.be/AR2grDvrbVM
+    form2bModifyAccount: ‘Modify Account”
+    https://youtu.be/Hh6Crmoc33A
 
-form3StockMenu: ‘Stock Menu’ (Interactive Chart)
-https://youtu.be/Ilg9xrNck_A
+    form2dSystemTasks: ‘System Tasks’ (User input authentication)
+    https://youtu.be/AR2grDvrbVM
 
-form3aStudentAccountDetails: ‘Account Details’
-https://youtu.be/1BAsGH7NEpQ
+    form3StockMenu: ‘Stock Menu’ (Interactive Chart)
+    https://youtu.be/Ilg9xrNck_A
 
-form3bPortfolio: ‘Portfolio’
-https://youtu.be/eymMZqAKRI8
+    form3aStudentAccountDetails: ‘Account Details’
+    https://youtu.be/1BAsGH7NEpQ
 
-form3b2ReviewOrder: ‘Review Order’
-https://youtu.be/hmq0W3Hacmg
+    form3bPortfolio: ‘Portfolio’
+    https://youtu.be/eymMZqAKRI8
+
+    form3b2ReviewOrder: ‘Review Order’
+    https://youtu.be/hmq0W3Hacmg
