@@ -16,3 +16,32 @@ YouTube links to the footages of the program can also be found under the documen
 
 form2d shows how I have used differnt SQL commands to upate the database.
 form4 uses merge sort to present the data in ASC/DSC order based on the stats that the user have chosen.
+
+
+The YouTube links for easy reference:
+form1Login: ‘Log In’
+https://youtu.be/5tOBhU9jFNQ
+
+form2StaffMenu: ‘Staff Menu’
+https://youtu.be/cNHceaVAP2g
+
+form2aCreateAccount: ‘Create Account’
+https://youtu.be/hzkhDL00md4
+
+form2bModifyAccount: ‘Modify Account”
+https://youtu.be/Hh6Crmoc33A
+
+form2dSystemTasks: ‘System Tasks’ (User input authentication)
+https://youtu.be/AR2grDvrbVM
+
+form3StockMenu: ‘Stock Menu’ (Interactive Chart)
+https://youtu.be/Ilg9xrNck_A
+
+form3aStudentAccountDetails: ‘Account Details’
+https://youtu.be/1BAsGH7NEpQ
+
+form3bPortfolio: ‘Portfolio’
+https://youtu.be/eymMZqAKRI8
+
+form3b2ReviewOrder: ‘Review Order’
+https://youtu.be/hmq0W3Hacmg
