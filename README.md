@@ -11,4 +11,8 @@ This project served as an experience for me to learn about fetching data from an
 I also learned about database using a custom dbConnector to execute SQL commands and MS Access to create a database with an ERD design of 10 linked tables.
 The interactive charts was coded using the LiveChart package from the C# library.
 
-A detailed documentation about the project which includes the project charter, design, test plan and evaluation can be found in the repository. YouTube links to the footages of the program can also be found under the document's section for 'Test plan' as the code for the entire program is not uploaded.
+A detailed documentation about the project which includes the project charter, design, test plan and evaluation can be found in the repository. 
+YouTube links to the footages of the program can also be found under the document's section for 'Test plan' as only two of the forms' source code will be uploaded.
+
+form2d shows how I have used differnt SQL commands to upate the database.
+form4 uses merge sort to present the data in ASC/DSC order based on the stats that the user have chosen.
